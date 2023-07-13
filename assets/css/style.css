@@ -1,0 +1,29 @@
+.text-orange{
+    color: #FF4800;
+
+}
+.navbar-brand:hover{color: #FF4800;}
+.bg-orange{ background-color:#FF4800;}
+
+.nav-link:hover{
+    background-color: #FF4800 ;
+    color: white;
+}
+.navbar .nav-item:hover .dropdown-menu{
+    background-color: yellowgreen;
+    display: block;
+}
+.banner-head{
+    background-image: url("../image/header.jpg");
+    min-height: 500px;
+}
+
+.card-box{
+    margin-top: 150px;
+    padding-bottom: 120px;
+}
+
+.contact-form{
+    padding: 100px 30px 80px 30px;
+
+}
